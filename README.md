@@ -11,8 +11,8 @@ Discord: xt_cy
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg#gh-dark-mode-only" width="48" height="48" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg#gh-light-mode-only" width="48" height="48" />
-
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PostgreSQL-Dark.svg#gh-dark-mode-only" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MongoDB.svg#gh-dark-mode-only" width="48" height="48" />
 </div>
 
 <h3>Spotify</h3>
