@@ -2,7 +2,7 @@
 <div>
 <p>
 I'm Rose, A 14 year old Fullstack Developer
-Discord: xt_cy
+Discord: teenxbitch
 </p>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg#gh-dark-mode-only" width="48" height="48" />
