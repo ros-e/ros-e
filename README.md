@@ -19,3 +19,7 @@ I'm Rose, A 14 year old Fullstack Developer
 <h3>Spotify</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317i3qna3qspgkdezyakpqdaggly&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=b4befe&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317i3qna3qspgkdezyakpqdaggly&redirect=true)
+
+<h3>Last.Fm</h3>
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=allureowo)
