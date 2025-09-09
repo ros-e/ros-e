@@ -1,7 +1,3 @@
-<h1>Welcome to my 𝒫𝓇𝑜𝒻𝒾𝓁𝑒</h1>
-<div>
-<p>
-I'm Rose, A 15 year old Developer
 </p>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="48" height="48" />
