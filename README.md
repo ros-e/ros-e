@@ -15,7 +15,7 @@
 
 <h3>Spotify</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317i3qna3qspgkdezyakpqdaggly&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=b4befe&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317i3qna3qspgkdezyakpqdaggly&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317i3qna3qspgkdezyakpqdaggly&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ff80c0&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <h3>Last.Fm</h3>
 
