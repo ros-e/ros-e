@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/ros-e/ros-e/blob/main/assets/saysosays.webp?raw=true" height="400" /></p>
-<p align="center">hi im Rose i<br />
+<p align="center">hi im Rose<br />
 </p>
 
 
