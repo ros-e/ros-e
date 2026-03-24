@@ -1,10 +1,34 @@
 <div align="center">
-  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+<img src="https://github.com/ros-e/ros-e/blob/main/assets/Kuromi.gif" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=ros-e&theme=catppuccin_mocha&hide_border=false)<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=1000&color=F4B5EB&center=true&vCenter=true&width=435&lines=haiii+i%E2%80%99m+rose+%3Ew%3C)](https://git.io/typing-svg)
 
+### About Me ^w^
 
-[![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/kurom1.png)](https://tryhackme.com/p/kurom1)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317i3qna3qspgkdezyakpqdaggly&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317i3qna3qspgkdezyakpqdaggly&redirect=true)
+I am a **FullStack & Software Engineer** with **5+ years of experience** O~O. I primarily work with 
+<img src="https://github.com/ros-e/ros-e/blob/main/assets/rust-logo-64x64.png" height="18" /> Rust, 
+<img src="https://github.com/ros-e/ros-e/blob/main/assets/TypeScript.png" height="18" /> TypeScript & 
+<img src="https://github.com/ros-e/ros-e/blob/main/assets/Go-Logo_Blue.svg" height="18" /> Golang  
+
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=paw2k&count=1&header_style=none)](https://www.last.fm/user/paw2k)
+
+---
+
+### Currently Working On
+**[cdn.cupid.wtf](https://cupid.wtf/)** (TypeScript + Drizzle ORM) | Storage service similar to R2  
+**[Kuro](https://github.com/ros-e/kuro)** (Go) | Self-Hosted PaaS alternative to Vercel and Heroku  
+**[Lumi](https://github.com/cuori-co/lumi)** (Rust) | S3-compatible object storage  
+
+---
+
+### Contact Me
+<div align="center">
+  <a href="https://t.me/glutmother66" target="_blank" style="margin-right: 20px; color:#F4B5EB; text-decoration:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="24" /> Telegram
+  </a>
+  <a href="mailto:rosetta@firemail.de" target="_blank" style="color:#F4B5EB; text-decoration:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="24" /> Email
+  </a>
+</div>
+
 </div>
