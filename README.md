@@ -15,8 +15,7 @@ I am a **FullStack & Software Engineer** with **5+ years of experience** O~O. I 
 ---
 
 ### Currently Working On
-**[anthrax](https://anthrax.gift/)** (TypeScript + Drizzle ORM) | Storage service similar to R2  
-**[Kuro](https://github.com/ros-e/kuro)** (Go) | Self-Hosted PaaS alternative to Vercel and Heroku  
+**[anthrax](https://anthrax.gift/)** (TypeScript + Drizzle ORM) | Image Host  
 **[Lumi](https://github.com/cuori-co/lumi)** (Rust) | S3-compatible object storage  
 
 ---
