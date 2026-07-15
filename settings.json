@@ -7,43 +7,97 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
-  "sticky_scroll": {
-    "enabled": false
+  "buffer_font_family": "ComicShannsMono Nerd Font",
+  "terminal": {
+    "font_family": "ComicShannsMono Nerd Font",
   },
+  "completions": {
+    "lsp": true,
+  },
+  "git": {
+    "disable_git": false,
+  },
+  "disable_ai": true,
+  "proxy": "",
+  "cli_default_open_behavior": "existing_window",
+  "diff_view_style": "unified",
+  "lsp": {
+    "vtsls": {
+      "settings": {
+        "typescript": {
+          "updateImportsOnFileMove": {
+            "enabled": "always",
+          },
+        },
+        "javascript": {
+          "updateImportsOnFileMove": {
+            "enabled": "always",
+          },
+        },
+      },
+      "enable_lsp_tasks": true,
+    },
+    "discord_presence": {
+      "initialization_options": {
+        "application_id": "1263505205522337886",
+        "base_icons_url": "https://raw.githubusercontent.com/xhyrom/zed-discord-presence/main/assets/icons/",
+
+        "state": "📝 {filename}",
+        "details": "📂 {workspace}",
+
+        "large_image": "{base_icons_url}/{language:lo}.png",
+        "large_text": "{language:u}",
+
+        "small_image": "{base_icons_url}/zed.png",
+        "small_text": "Zed",
+
+        "idle": {
+          "timeout": 300,
+          "action": "change_activity",
+
+          "state": "😴",
+          "details": null,
+
+          "large_image": "{base_icons_url}/zed.png",
+          "large_text": "Zed",
+
+          "small_image": "{base_icons_url}/idle.png",
+          "small_text": "Idle",
+        },
+
+        "rules": {
+          "mode": "blacklist",
+          "paths": [],
+        },
+
+        "git_integration": true,
+      },
+    },
+  },
+  "format_on_save": "on",
+  "ensure_final_newline_on_save": false,
+  "extend_comment_on_newline": false,
   "agent": {
-    "flexible": true,
-    "dock": "left",
+    "expand_terminal_card": false,
+    "expand_edit_card": false,
+    "button": false,
     "favorite_models": [],
-    "model_parameters": []
-  },
-  "collaboration_panel": {
-    "dock": "left"
-  },
-  "outline_panel": {
-    "dock": "left"
+    "model_parameters": [],
   },
   "git_panel": {
-    "dock": "left"
-  },
-  "project_panel": {
-    "dock": "right"
-  },
-  "ui_font_family": "JetBrainsMono Nerd Font",
-  "buffer_font_family": "JetBrainsMono Nerd Font",
-  "session": {
-    "trust_all_worktrees": true
+    "dock": "left",
   },
   "vim_mode": true,
   "icon_theme": {
     "mode": "dark",
-    "light": "Catppuccin Mocha",
-    "dark": "Catppuccin Mocha"
+    "light": "Catppuccin Latte",
+    "dark": "Catppuccin Mocha",
   },
-  "ui_font_size": 14.0,
+  "ui_font_size": 16,
   "buffer_font_size": 15,
   "theme": {
     "mode": "dark",
-    "light": "One Light",
-    "dark": "Catppuccin Mocha",
+    "light": "Catppuccin Latte (Blur) [Heavy]",
+    "dark": "Catppuccin Mocha (Blur) [Light]",
   },
 }
