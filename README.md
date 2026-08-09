@@ -15,8 +15,8 @@ I am a **FullStack & Software Engineer** with **5+ years of experience** O~O. I 
 ---
 
 ### Currently Working On
-**[anthrax](https://anthrax.gift/)** (TypeScript + Drizzle ORM) | Image Host  
-**[Lumi](https://github.com/cuori-co/lumi)** (Rust) | S3-compatible object storage  
+**[stash](https://github.com/ros-e/stash)** 
+**[mrow :3](https://github.com/ros-e/mrow-auth)** 
 
 ---
 
