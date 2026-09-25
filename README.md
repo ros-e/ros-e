@@ -22,9 +22,6 @@ I am a **FullStack & Software Engineer** with **5+ years of experience** O~O. I 
 
 ### Contact Me
 <div align="center">
-  <a href="https://t.me/glutmother66" target="_blank" style="margin-right: 20px; color:#F4B5EB; text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="24" /> Telegram
-  </a>
   <a href="mailto:rosetta@firemail.de" target="_blank" style="color:#F4B5EB; text-decoration:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="24" /> Email
   </a>
